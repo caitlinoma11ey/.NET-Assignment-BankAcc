@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ujW/SVLhlNcyAkrSPNXaWMl9d2xp13GNNcedKPcZWnSYPNP75LZ+HfAbi8KTxVDGQKS4a0yym8pQ4aaKdpEjIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\61434\\Desktop\\.NET ASSIGNMENT\\BankAccount\\BankAccount\\BankAccount.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\61434\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
